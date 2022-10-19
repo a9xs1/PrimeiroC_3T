@@ -33,7 +33,12 @@ function media(){
       let r = (Number(n1)+(Number(n2)+(Number(n3)/3;
       document.getElementById("resultado").innerHTML = "media" + r;
       
-
+      function soma(){
+        let n1 = document.getElementById("v1").vaule;
+        let n2 = document.getElementById("v2").vaule;
+        let n3 = document.getElementById("v3").vaule;
+        let r = (Number(n1)+(Number(n2)+(Number(n3);
+        document.getElementById("resultado").innerHTML = "media" + r;
 
 
 
