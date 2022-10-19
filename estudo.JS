@@ -26,3 +26,15 @@ document.write("o cubo de" + i + " é "+i "x" + i "x" i "="(i+i+i+i))
 
 }
 }
+function media(){
+      let n1 = document.getElementById("v1").vaule;
+      let n2 = document.getElementById("v2").vaule;
+      let n3 = document.getElementById("v3").vaule;
+      let r = (Number(n1)+(Number(n2)+(Number(n3)/3;
+      document.getElementById("resultado").innerHTML = "media" + r;
+      
+
+
+
+
+}
